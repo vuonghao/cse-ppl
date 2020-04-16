@@ -24,7 +24,7 @@ Môn Nguyên lý ngôn ngữ lập trình - Trường Đại học Bách Khoa HC
 02. [Syntax Analysis](./02_Syntax-Analysis/README.md)
 03. [Object Oriented Programming (OOP)](./03_Object-Oriented-Programming/README.md)
 04. [Functional Programming (FP)](./04_Functional-Programming/README.md)
-05. [Abstract Syntax Tree (AST)](./05_Abstract-Syntax -Tree/README.md)
+05. [Abstract Syntax Tree (AST)](./05_Abstract-Syntax-Tree/README.md)
 06. [Name, Binding and Scope](./06_Name-Binding-Scope/README.md)
 07. [Data Types](./07_Data-Types/README.md)
 08. [Sequence Control](./08_Sequence-Control/README.md)
